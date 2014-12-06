@@ -1,4 +1,0 @@
-study-git
-=========
-
-study-git
